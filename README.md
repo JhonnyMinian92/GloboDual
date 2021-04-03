@@ -1,0 +1,2 @@
+# GloboDual
+ Software en PHP
